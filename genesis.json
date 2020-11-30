@@ -1,7 +1,7 @@
 {
     "contracts": [
         {
-            "vm": "plugin",
+            "vm": "pluginn",
             "format": "plugin",
             "name": "etherboycore",
             "location": "etherboycore:0.0.1",
